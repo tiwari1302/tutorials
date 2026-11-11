@@ -1,0 +1,22 @@
+[
+  {
+    "title": "DDIA Interactive Notes",
+    "description": "A visual companion to Designing Data-Intensive Applications, with deep dives, quizzes, and a cheatsheet.",
+    "url": "https://tiwari1302.github.io/ddia-notes/"
+  },
+  {
+    "title": "System Design Patterns",
+    "description": "An interactive guide to system design patterns, with a focus on data-intensive systems.",
+    "url": "https://tiwari1302.github.io/system-design-cheatsheet/"
+  },
+  {
+    "title": "Bigtable Field Guide",
+    "description": "A start-to-finish reading path through Google Bigtable, from the paper to Cloud Bigtable.",
+    "url": "https://tiwari1302.github.io/bigtable-field-guide/"
+  },
+  {
+    "title": "Bigtable Decks",
+    "description": "Thirteen slide decks on Bigtable, from the basics through schema design and real workloads.",
+    "url": "https://tiwari1302.github.io/bigtable-decks/"
+  }
+]
