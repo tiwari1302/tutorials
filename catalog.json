@@ -16,7 +16,7 @@
   },
   {
     "title": "Bigtable Decks",
-    "description": "Thirteen slide decks on Bigtable, from the basics through schema design and real workloads.",
+    "description": "Thirteen Bigtable chapters you can read in the browser, with the PowerPoint available to download.",
     "url": "https://tiwari1302.github.io/bigtable-decks/"
   }
 ]
